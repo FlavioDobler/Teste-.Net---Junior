@@ -1,0 +1,17 @@
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\CalcTeste.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\CalcTeste.pdb
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Calculadora3.exe
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Calculadora3.pdb
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Calculadora3.exe.config
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\obj\Debug\CalcTeste.csprojAssemblyReference.cache
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\obj\Debug\CalcTeste.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\obj\Debug\CalcTeste.csproj.CopyComplete
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\obj\Debug\CalcTeste.dll
+C:\Users\Flavio\source\repos\Calculadora3\CalcTeste\obj\Debug\CalcTeste.pdb
